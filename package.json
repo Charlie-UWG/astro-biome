@@ -10,8 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.4",
     "@astrojs/check": "^0.9.4",
+    "astro": "^4.16.4",
     "typescript": "^5.6.3"
+  },
+  "packageManager": "yarn@1.22.22",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.3",
+    "tailwindcss": "^3.4.14"
   }
 }
